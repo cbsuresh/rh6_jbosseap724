@@ -12,7 +12,7 @@ wget the required silent installation files from Artifactory.
 
 cd /tmp
 
-wget http://artifactory/artifactory/application-release-local/gov/usda/fs/jboss-eap/rhel6_jboss_eap_7.2.4_install.tar.gz
+wget http://ARTIFACTORY_URL/jboss-eap/rhel6_jboss_eap_7.2.4_install.tar.gz
 
 sha256sum rhel6_jboss_eap_7.2.4_install.tar.gz
 
